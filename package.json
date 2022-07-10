@@ -1,4 +1,5 @@
 {
+  "name": "QingLong",
   "private": true,
   "scripts": {
     "start": "concurrently -n w: npm:start:*",
